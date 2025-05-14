@@ -1,0 +1,29 @@
+# starting jenkins on your own server in terminal using 'java -jar jenkins.war -httpPort=9090' invoking Jenkins
+on our port 9090 on local machine
+# in new project, in Build, we execute Windows batch command with the following line
+
+# 'cd tests
+   pytest --browser_title=chrome --html=../reports/report.html'
+# or we can use the environment variable 'workspace' as following
+# 'cd tests
+   pytest --browser_title chrome --html=$WORKSPACE/reports/report.html'
+
+# configure project by using 'This project is parametrized', select 'Choice Parameter', name as 'browserName',
+choices as 'chrome', 'firefox', 'IE'
+# use the following snippet code for choice parameters
+  'cd tests
+   pytest --browser_title "%browserName%" --html=../reports/report.html'
+
+# You need to have Jenkins 2.414.3 in order to use JUnit
+#In order to use this version of Jenkins you also need Java 17
+# JUnit is a plugin that will help you to see the reports straight away in your job in Dashboard
+# Pytest has a future where all your test results can be exported as an XML file
+# Jenkins can read that XML and create a plugin for you to see the reports
+# configure project, 'Add post-build action' then select 'Publish JUnit test result report'
+# you need to change the command prompt with this lines in order to have access to XML file
+  'cd tests
+  pytest --browser_title "%browserName%" --html=../reports/report.html -v --junitxml="result.xml"'
+# finally you have to give the path into 'Test report XMLs'
+# thee path should be 'tests/*.xml' - it will simply check for all files with xml extension
+# JUnit will be executed after script execution and will be accessible from 'Latest test result'
+# After 5 builds it will start to draw a graph will successfully and failed tests

@@ -1,0 +1,136 @@
+2025-05-04 19:26:27,213 :INFO : test_e2e :getting all the card titles
+2025-05-04 19:26:27,253 :INFO : test_e2e :iphone X
+2025-05-04 19:26:27,272 :INFO : test_e2e :Samsung Note 8
+2025-05-04 19:26:27,293 :INFO : test_e2e :Nokia Edge
+2025-05-04 19:26:27,312 :INFO : test_e2e :Blackberry
+2025-05-04 19:26:27,605 :INFO : test_e2e :Entering country name as "ro"
+2025-05-04 19:26:33,222 :INFO : test_e2e :Text receiving from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-05-04 19:26:40,639 :INFO : test_formSubmission :first name is Mihai
+2025-05-04 19:26:43,494 :INFO : test_formSubmission :first name is Anshika
+2025-05-04 19:26:43,494 :INFO : test_formSubmission :first name is Anshika
+2025-05-04 19:29:17,949 :INFO : test_e2e :getting all the card titles
+2025-05-04 19:29:17,987 :INFO : test_e2e :iphone X
+2025-05-04 19:29:18,007 :INFO : test_e2e :Samsung Note 8
+2025-05-04 19:29:18,026 :INFO : test_e2e :Nokia Edge
+2025-05-04 19:29:18,061 :INFO : test_e2e :Blackberry
+2025-05-04 19:29:18,355 :INFO : test_e2e :Entering country name as "ro"
+2025-05-04 19:29:24,032 :INFO : test_e2e :Text receiving from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-05-04 19:29:31,563 :INFO : test_formSubmission :first name is Mihai
+2025-05-04 19:29:34,430 :INFO : test_formSubmission :first name is Anshika
+2025-05-04 19:29:34,430 :INFO : test_formSubmission :first name is Anshika
+2025-05-04 19:30:27,772 :INFO : test_formSubmission :first name is Mihai
+2025-05-04 19:30:30,638 :INFO : test_formSubmission :first name is Anshika
+2025-05-04 19:30:30,638 :INFO : test_formSubmission :first name is Anshika
+2025-05-04 19:32:29,056 :INFO : test_formSubmission :first name is Mihai
+2025-05-04 19:33:32,035 :INFO : test_formSubmission :first name is Anshika
+2025-05-04 19:33:32,035 :INFO : test_formSubmission :first name is Anshika
+2025-05-05 22:13:35,313 :INFO : test_e2e :getting all the card titles
+2025-05-05 22:13:35,370 :INFO : test_e2e :iphone X
+2025-05-05 22:13:35,399 :INFO : test_e2e :Samsung Note 8
+2025-05-05 22:13:35,437 :INFO : test_e2e :Nokia Edge
+2025-05-05 22:13:35,460 :INFO : test_e2e :Blackberry
+2025-05-05 22:13:35,771 :INFO : test_e2e :Entering country name as "ro"
+2025-05-05 22:13:41,397 :INFO : test_e2e :Text receiving from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-05-05 22:13:49,225 :INFO : test_formSubmission :first name is Mihai
+2025-05-05 22:13:52,161 :INFO : test_formSubmission :first name is Anshika
+2025-05-05 22:13:52,161 :INFO : test_formSubmission :first name is Anshika
+2025-05-06 08:42:43,014 :INFO : test_e2e :getting all the card titles
+2025-05-06 08:42:43,070 :INFO : test_e2e :iphone X
+2025-05-06 08:42:43,092 :INFO : test_e2e :Samsung Note 8
+2025-05-06 08:42:43,119 :INFO : test_e2e :Nokia Edge
+2025-05-06 08:42:43,157 :INFO : test_e2e :Blackberry
+2025-05-06 08:42:43,439 :INFO : test_e2e :Entering country name as "ro"
+2025-05-06 08:42:49,249 :INFO : test_e2e :Text receiving from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-05-06 08:43:02,416 :INFO : test_formSubmission :first name is Mihai
+2025-05-06 08:43:05,774 :INFO : test_formSubmission :first name is Anshika
+2025-05-06 08:43:05,774 :INFO : test_formSubmission :first name is Anshika
+2025-05-06 08:51:00,592 :INFO : test_e2e :getting all the card titles
+2025-05-06 08:51:00,642 :INFO : test_e2e :iphone X
+2025-05-06 08:51:00,666 :INFO : test_e2e :Samsung Note 8
+2025-05-06 08:51:00,692 :INFO : test_e2e :Nokia Edge
+2025-05-06 08:51:00,713 :INFO : test_e2e :Blackberry
+2025-05-06 08:51:01,018 :INFO : test_e2e :Entering country name as "ro"
+2025-05-06 08:51:06,707 :INFO : test_e2e :Text receiving from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-05-06 08:51:14,380 :INFO : test_formSubmission :first name is Mihai
+2025-05-06 08:51:17,296 :INFO : test_formSubmission :first name is Anshika
+2025-05-06 08:51:17,296 :INFO : test_formSubmission :first name is Anshika
+2025-05-06 08:58:36,953 :INFO : test_e2e :getting all the card titles
+2025-05-06 08:58:37,006 :INFO : test_e2e :iphone X
+2025-05-06 08:58:37,031 :INFO : test_e2e :Samsung Note 8
+2025-05-06 08:58:37,058 :INFO : test_e2e :Nokia Edge
+2025-05-06 08:58:37,081 :INFO : test_e2e :Blackberry
+2025-05-06 08:58:37,391 :INFO : test_e2e :Entering country name as "ro"
+2025-05-06 08:58:43,056 :INFO : test_e2e :Text receiving from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-05-06 08:58:54,293 :INFO : test_formSubmission :first name is Mihai
+2025-05-06 08:58:57,183 :INFO : test_formSubmission :first name is Anshika
+2025-05-06 08:58:57,183 :INFO : test_formSubmission :first name is Anshika
+2025-05-06 09:37:54,376 :INFO : test_e2e :getting all the card titles
+2025-05-06 09:37:54,425 :INFO : test_e2e :iphone X
+2025-05-06 09:37:54,447 :INFO : test_e2e :Samsung Note 8
+2025-05-06 09:37:54,468 :INFO : test_e2e :Nokia Edge
+2025-05-06 09:37:54,496 :INFO : test_e2e :Blackberry
+2025-05-06 09:37:54,809 :INFO : test_e2e :Entering country name as "ro"
+2025-05-06 09:38:00,519 :INFO : test_e2e :Text receiving from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-05-06 09:38:10,471 :INFO : test_formSubmission :first name is Mihai
+2025-05-06 09:38:13,391 :INFO : test_formSubmission :first name is Anshika
+2025-05-06 09:38:13,391 :INFO : test_formSubmission :first name is Anshika
+2025-05-06 09:48:20,854 :INFO : test_e2e :getting all the card titles
+2025-05-06 09:48:20,899 :INFO : test_e2e :iphone X
+2025-05-06 09:48:20,919 :INFO : test_e2e :Samsung Note 8
+2025-05-06 09:48:20,939 :INFO : test_e2e :Nokia Edge
+2025-05-06 09:48:20,980 :INFO : test_e2e :Blackberry
+2025-05-06 09:48:21,275 :INFO : test_e2e :Entering country name as "ro"
+2025-05-06 09:48:26,911 :INFO : test_e2e :Text receiving from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-05-06 09:48:34,867 :INFO : test_formSubmission :first name is Mihai
+2025-05-06 09:48:37,792 :INFO : test_formSubmission :first name is Anshika
+2025-05-06 09:48:37,792 :INFO : test_formSubmission :first name is Anshika
+2025-05-07 06:32:55,579 :INFO : test_e2e :getting all the card titles
+2025-05-07 06:32:55,629 :INFO : test_e2e :iphone X
+2025-05-07 06:32:55,650 :INFO : test_e2e :Samsung Note 8
+2025-05-07 06:32:55,675 :INFO : test_e2e :Nokia Edge
+2025-05-07 06:32:55,696 :INFO : test_e2e :Blackberry
+2025-05-07 06:32:56,011 :INFO : test_e2e :Entering country name as "ro"
+2025-05-07 06:33:01,621 :INFO : test_e2e :Text receiving from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-05-07 06:33:17,915 :INFO : test_formSubmission :first name is Mihai
+2025-05-07 06:33:20,798 :INFO : test_formSubmission :first name is Anshika
+2025-05-07 06:33:20,798 :INFO : test_formSubmission :first name is Anshika
+2025-05-07 06:56:36,849 :INFO : test_e2e :getting all the card titles
+2025-05-07 06:56:36,917 :INFO : test_e2e :iphone X
+2025-05-07 06:56:36,963 :INFO : test_e2e :Samsung Note 8
+2025-05-07 06:56:36,985 :INFO : test_e2e :Nokia Edge
+2025-05-07 06:56:37,009 :INFO : test_e2e :Blackberry
+2025-05-07 06:56:37,355 :INFO : test_e2e :Entering country name as "ro"
+2025-05-07 06:56:43,181 :INFO : test_e2e :Text receiving from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2025-05-07 06:56:54,261 :INFO : test_formSubmission :first name is Mihai
+2025-05-07 06:56:57,285 :INFO : test_formSubmission :first name is Anshika
+2025-05-07 06:56:57,285 :INFO : test_formSubmission :first name is Anshika
+2025-05-07 07:33:44,958 :INFO : test_formSubmission :first name is Mihai
+2025-05-07 07:33:47,959 :INFO : test_formSubmission :first name is Anshika
+2025-05-07 07:33:47,959 :INFO : test_formSubmission :first name is Anshika
+2025-05-09 07:26:17,225 :INFO : test_formSubmission :first name is Rahul
+2025-05-09 07:47:48,736 :INFO : test_formSubmission :first name is Rahul
+2025-05-09 08:44:39,799 :INFO : test_formSubmission :first name is Rahul
+2025-05-09 08:46:26,239 :INFO : test_formSubmission :first name is Mihai
+2025-05-09 08:52:19,158 :INFO : test_formSubmission :first name is Rahul
+2025-05-09 08:54:52,914 :INFO : test_formSubmission :first name is Rahul
+2025-05-09 08:55:14,820 :INFO : test_formSubmission :first name is Rahul
+2025-05-09 08:55:55,022 :INFO : test_formSubmission :first name is Rahul
+2025-05-09 09:29:20,344 :INFO : test_formSubmission :first name is Rahul
+2025-05-09 09:29:43,260 :INFO : test_formSubmission :first name is Rahul
+2025-05-09 09:30:08,779 :INFO : test_formSubmission :first name is Rahul
+2025-05-09 09:30:41,016 :INFO : test_formSubmission :first name is Mihai
+2025-05-09 09:30:56,016 :INFO : test_formSubmission :first name is Mihai
+2025-05-09 09:53:34,925 :INFO : test_formSubmission :first name is g
+2025-05-09 09:53:49,568 :INFO : test_formSubmission :first name is g
+2025-05-09 09:54:22,388 :INFO : test_formSubmission :first name is j
+2025-05-09 19:48:24,150 :INFO : test_formSubmission :first name is Mihai
