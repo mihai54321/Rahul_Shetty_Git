@@ -1,4 +1,4 @@
-'''
+"""
 GIT - control changes across multiple people in working on a robust project
 one repository -> no conflicts
 If you have Windows 7 then you have to look for the last supported version by searching for 'git versions for windows 7'
@@ -23,9 +23,15 @@ to push to it
 git remote set-url origin https://<token>@github.com/<user>/<repo>
 git push origin master - push the code files into your remote repository
 
+git clone - extract code from remote repo into local repo for the first time
+git pull - check for updates
+
+
+
+
 git config --global credential.helper store - Git will store your credentials and won't prompt for a username/password
 git config --global init.defaultBranch main - this will replace 'Master' with 'main'
 git help config - Git will help with config, it's going to lunch the browser
 rm -rf .git - removes recursive, forced the git directory
 .gitignore - input in this file the files you want GIT to exclude
-'''
+"""
