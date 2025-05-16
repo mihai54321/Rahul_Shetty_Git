@@ -23,10 +23,10 @@ to push to it
 git remote set-url origin https://<token>@github.com/<user>/<repo>
 git push origin master - push the code files into your remote repository
 
-git clone - extract code from remote repo into local repo for the first time
+git clone origin main - extract code from remote repo into local repo for the first time
 git remote set-url origin https://your-token@github.com/username/repository.git
 git config --global credential.helper store
-git pull - check for updates
+git pull origin main - check for updates
 
 
 
