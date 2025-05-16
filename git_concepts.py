@@ -30,6 +30,11 @@ git pull origin main - check for updates
 
 git checkout -b develop - create and access a new branch called 'develop'
 git branch - see the current branch you are working in
+git commit -a -m "your message" add changes
+git push origin develop - push the new branch on the remote repo
+git pull origin develop - pull from another user the new branch
+git checkout develop - switch to 'develop' branch from 'main'
+git branch -d develop - delete 'develop' branch
 
 
 
