@@ -27,7 +27,7 @@ git clone origin main - extract code from remote repo into local repo for the fi
 git remote set-url origin https://your-token@github.com/username/repository.git
 git config --global credential.helper store
 git pull origin main - check for updates
-
+git merge develop - merge develop branch with main
 
 
 
