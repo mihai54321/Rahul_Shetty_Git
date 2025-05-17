@@ -39,7 +39,7 @@ git branch -d develop - delete 'develop' branch
 git merge develop - merge develop branch with main
 
 
-git fetch origin
+git fetch origin - fetches all updates from origin, but your local files stay unchanged
 git reset --hard origin/master - Instead, to drop all your local changes and commits, fetch the latest history
  from the server and point your local master branch at it
 
