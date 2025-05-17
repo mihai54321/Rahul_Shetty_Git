@@ -22,6 +22,7 @@ git remote add origin <server> - connect your local repository to a remote serve
 to push to it
 git remote set-url origin https://<token>@github.com/<user>/<repo>
 git push origin master - push the code files into your remote repository
+git log - view the commit history of a Git repository
 
 git clone origin main - extract code from remote repo into local repo for the first time
 git remote set-url origin https://your-token@github.com/username/repository.git
@@ -31,12 +32,16 @@ git pull origin main - check for updates
 git checkout -b develop - create and access a new branch called 'develop'
 git branch - see the current branch you are working in
 git commit -a -m "your message" add changes
-git push origin develop - push the new branch on the remote repo
+git push origin develop - push the new branch on the remote repo so the others can use it
 git pull origin develop - pull from another user the new branch
 git checkout develop - switch to 'develop' branch from 'main'
 git branch -d develop - delete 'develop' branch
 git merge develop - merge develop branch with main
 
+
+git fetch origin
+git reset --hard origin/master - Instead, to drop all your local changes and commits, fetch the latest history
+ from the server and point your local master branch at it
 
 
 git config --global credential.helper store - Git will store your credentials and won't prompt for a username/password
