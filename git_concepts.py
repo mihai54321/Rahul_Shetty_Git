@@ -49,4 +49,8 @@ git config --global init.defaultBranch main - this will replace 'Master' with 'm
 git help config - Git will help with config, it's going to lunch the browser
 rm -rf .git - removes recursive, forced the git directory
 .gitignore - input in this file the files you want GIT to exclude
+
+A fork in GitHub creates a copy of a repository under your own account, allowing you to modify it
+ without affecting the original project. It's commonly used for collaboration, experimentation,
+  and contributing to open-source projects.
 """
